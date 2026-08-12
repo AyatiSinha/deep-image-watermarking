@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Trained models
+*.pt
+*.pth
+*.ckpt
+
+# Outputs
+outputs/
+
+# Local environments
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
